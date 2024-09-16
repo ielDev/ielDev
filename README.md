@@ -1,4 +1,8 @@
 ## Hi there 👋
+## I am John Ezekiel B. Escueta
+🌱 I’m currently learning java and web development
+🔭 I’m currently working on my secret project nyehehehe...
+⚡ Fun fact: I am a student!
 
 <!--
 **ielDev/ielDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
