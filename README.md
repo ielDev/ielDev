@@ -78,7 +78,8 @@
 ## 📧 Professional Contact
 
 **Email:** escueta.johnezekiel@gmail.com  
-**LinkedIn:** [John Ezekiel Escueta](https://linkedin.com/in/john-ezekiel-escueta)  
+**LinkedIn:** [John Ezekiel Escueta](https://www.linkedin.com/in/john-ezekiel-escueta-7baa5a326/)
+**Facebook** [John Ezekiel Escueta](https://www.facebook.com/ezzyxkl)
 **Portfolio:** *In Development*
 
 ---
