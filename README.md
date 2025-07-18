@@ -1,99 +1,122 @@
 # John Ezekiel Escueta
+### Software Developer & UI/UX Designer
 
-## Software Developer & UI/UX Designer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-ezekiel-escueta-7baa5a326/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ezzyxkl)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:escueta.johnezekiel@gmail.com)
 
+---
+
+## 👨‍💻 About Me
 **Bachelor of Science in Information Technology** | **2nd Year Student**
 
----
-
-## 🔧 Technical Skills
-
-### Programming Languages
-- **JavaScript** - Modern ES6+ features, DOM manipulation
-- **Python** - Automation, scripting, problem-solving
-- **Java** - Object-oriented programming, enterprise applications
-- **PHP** - Server-side development, web applications
-- **Visual Basic** - Desktop application development
-- **SQL** - Database design and management (MySQL)
-
-### Frontend Development
-- **React.js** - Component-based architecture, state management
-- **HTML5/CSS3** - Responsive design, modern web standards
-- **UI/UX Design** - User-centered design principles (Figma)
-
-### Backend & Database
-- **MySQL** - Database design, optimization, queries
-- **PHP** - Server-side logic, API development
-- **XAMPP** - Local development environment
+Passionate about creating efficient, user-focused digital solutions through the intersection of design and development. Currently expanding my expertise in full-stack development while maintaining a strong focus on user experience design.
 
 ---
 
-## 💼 Project Portfolio
+## 🛠️ Technical Skills
 
-### Web Applications
-- Full-stack web solutions with modern frameworks
+<table>
+<tr>
+<td>
+
+**Languages**
+- JavaScript (ES6+)
+- Python
+- Java
+- PHP
+- Visual Basic
+- SQL
+
+</td>
+<td>
+
+**Frontend**
+- React.js
+- HTML5/CSS3
+- Responsive Design
+- UI/UX Design (Figma)
+
+</td>
+<td>
+
+**Backend & Database**
+- MySQL
+- PHP
+- XAMPP
+- API Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Project Categories
+
+### 🌐 Web Applications
+- Full-stack solutions with modern frameworks
 - Responsive, cross-platform compatibility
-- Clean, maintainable code architecture
+- Clean, maintainable architecture
 
-### Business Solutions
-- Custom utility applications for workflow optimization
-- Problem-specific calculators and automation tools
-- Productivity enhancement software
+### 🔧 Business Solutions
+- Custom utility applications
+- Problem-specific calculators
+- Workflow optimization tools
 
-### Interactive Applications
-- Educational tools and interactive programs
+### 🎮 Interactive Applications
+- Educational tools and programs
 - User engagement focused development
 - Creative problem-solving implementations
 
 ---
 
-## 🎯 Professional Focus
+## 🎯 Current Focus
 
-**Frontend Development**
-- Modern JavaScript frameworks and libraries
-- Responsive design implementation
-- Performance optimization
-
-**UI/UX Design**
-- User research and persona development
-- Wireframing and prototyping in Figma
-- Accessibility and usability testing
-
-**Full-Stack Development**
-- Currently expanding expertise in end-to-end development
-- Integration of frontend and backend technologies
-- API design and implementation
+| Area | Details |
+|------|---------|
+| **Frontend Development** | Modern JavaScript frameworks, responsive design, performance optimization |
+| **UI/UX Design** | User research, wireframing in Figma, accessibility testing |
+| **Full-Stack Development** | End-to-end development, frontend-backend integration, API design |
 
 ---
 
-## 📈 Current Objectives
+## 📈 Learning Goals
 
-- **Advanced React Development** - Mastering state management and performance optimization
-- **Full-Stack Integration** - Combining frontend and backend expertise
-- **Professional Portfolio** - Developing comprehensive project showcase
-- **Industry Best Practices** - Implementing modern development methodologies
-
----
-
-## 📧 Professional Contact
-
-**Email:** escueta.johnezekiel@gmail.com  
-**LinkedIn:** [John Ezekiel Escueta](https://www.linkedin.com/in/john-ezekiel-escueta-7baa5a326/)
-**Facebook** [John Ezekiel Escueta](https://www.facebook.com/ezzyxkl)
-**Portfolio:** *In Development*
+- [ ] Advanced React patterns and state management
+- [ ] Full-stack application architecture
+- [ ] Professional portfolio development
+- [ ] Industry best practices and methodologies
 
 ---
 
-## 🎓 Education & Development
+## 🎓 Education
 
 **Bachelor of Science in Information Technology**  
-*Currently 2nd Year*
+*2nd Year Student*
 
-**Continuous Learning:**
+**Continuous Learning Focus:**
 - Modern web development frameworks
 - Software engineering principles
 - User experience design methodologies
 
 ---
 
-*Committed to creating efficient, user-focused digital solutions through the intersection of design and development.*
+## 📫 Get In Touch
+
+| Platform | Link |
+|----------|------|
+| **Professional Email** | [escueta.johnezekiel@gmail.com](mailto:escueta.johnezekiel@gmail.com) |
+| **LinkedIn** | [John Ezekiel Escueta](https://www.linkedin.com/in/john-ezekiel-escueta-7baa5a326/) |
+| **Facebook** | [John Ezekiel Escueta](https://www.facebook.com/ezzyxkl) |
+| **Portfolio** | *Coming Soon* 🚧 |
+
+---
+
+<div align="center">
+
+**"Creating efficient, user-focused digital solutions through the intersection of design and development."**
+
+⭐ *Feel free to explore my repositories and connect with me!* ⭐
+
+</div>
